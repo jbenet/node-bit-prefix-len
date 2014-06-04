@@ -1,0 +1,31 @@
+{
+  "name": "bit-prefix-len",
+  "version": "0.1.0",
+  "description": "return length of a prefix in a buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbenet/node-buffer-prefix-len.git"
+  },
+  "keywords": [
+    "buffer",
+    "prefix",
+    "crypto",
+    "puzzle",
+    "cryptopuzzle",
+    "cryptocurrency"
+  ],
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenet/node-buffer-prefix-len/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "~2.13.2"
+  }
+}
