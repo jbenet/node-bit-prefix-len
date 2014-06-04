@@ -1,6 +1,6 @@
 {
   "name": "bit-prefix-len",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "return length of a prefix in a buffer",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,7 @@
   "bugs": {
     "url": "https://github.com/jbenet/node-buffer-prefix-len/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "~2.13.2"
   }
